@@ -9,11 +9,12 @@ html {
 }
 
 body {
-  font-size: 16px;
+  font-size: 1em;
   line-height: 1.5;
   font-family: sans-serif;
   padding: 0;
   margin: 0;
+  color: #fff;
 }
 
 a {
@@ -22,11 +23,11 @@ a {
   text-decoration: none;
 }
 .pf-sidebar {
-  background-color: gray;
+  background-color: #0080ff;
   padding: 5vw;
 }
 
 .pf-grid-item {
-  background-color: gray;
+  background-color: #0080ff;
   padding: 3vw;
 }
